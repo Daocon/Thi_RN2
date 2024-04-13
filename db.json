@@ -1,0 +1,40 @@
+{
+  "Sach": [
+    {
+      "id": "1",
+      "ma_sach_ph35768": "S001",
+      "tieu_de_ph35768": "Sách 1",
+      "tac_gia_ph35768": "Tác giả 1",
+      "nam_xuat_ban_ph35768": "2019",
+      "so_trang_ph35768": "100",
+      "the_loai_ph35768": "Thể loại 1",
+      "so_luong_ph35768": "10",
+      "hinh_anh_ph35768": "https://img.lovepik.com/free-png/20210926/lovepik-books-png-image_401425902_wh1200.png",
+      "don_gia_ph35768": "10000"
+    },
+    {
+      "id": "2",
+      "ma_sach_ph35768": "S002",
+      "tieu_de_ph35768": "Sách 2",
+      "tac_gia_ph35768": "Tác giả 2",
+      "nam_xuat_ban_ph35768": "2020",
+      "so_trang_ph35768": "200",
+      "the_loai_ph35768": "Thể loại 2",
+      "so_luong_ph35768": "20",
+      "hinh_anh_ph35768": "https://img.lovepik.com/free-png/20210926/lovepik-books-png-image_401425902_wh1200.png",
+      "don_gia_ph35768": "20000"
+    },
+    {
+      "id": "3",
+      "ma_sach_ph35768": "S003",
+      "tieu_de_ph35768": "Sách 3",
+      "tac_gia_ph35768": "Tác giả 3",
+      "nam_xuat_ban_ph35768": "2021",
+      "so_trang_ph35768": "300",
+      "the_loai_ph35768": "Thể loại 3",
+      "so_luong_ph35768": "30",
+      "hinh_anh_ph35768": "https://img.lovepik.com/element/40048/7442.png_860.png",
+      "don_gia_ph35768": "30000"
+    }
+  ]
+}
